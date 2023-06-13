@@ -1,0 +1,124 @@
+{
+  "title": "[Build] Exalted 2.0",
+  "id": "exalted3e-build",
+  "system": "exaltedthird",
+  "background": "Background/VLcvhfuzT3XPWOf-G2EnRkk2o3rZGC9VuvKqy6DjrTw.webp",
+  "description": "<p><span style=\"font-family:Arial, Verdana, sans-serif\">This is the tale of a forgotten age before the seas were bent, when the world was flat and floated atop a sea of chaos. This is the tale of a decadent empire raised up on the bones of the fallen Golden Age, whose splendor it faintly echoed but could not match. This is a tale of primal frontiers, of the restless dead, of jeweled cities ruled openly by spirits in defiance of Heaven’s law. This is a tale of glorious heroes blessed by the gods, and of their passions and the wars they waged in the final era of legends.</span></p><p>This is your tale. This is <strong>Exalted</strong>. <em>What legends will they tell of your deeds?</em></p><p></p><p><strong>Exalted 3rd Edition includes:</strong></p><ul><li><strong>New Fiction</strong> - Read a new tale by original Exalted developer and author Geoff Grabowski.</li><li><strong>New Artwork</strong> – See the Realm in a new light with stunning artwork by both new and classic Exalted artists working under the direction of Maria Cabardo.</li><li><strong>Expanded Locales</strong> – Expand your campaigns with a detailed overview of the sprawling and decadent Second Age of Man. In addition to classic locales such as Chiaroscuro and Nexus, find many new locations not detailed in previous editions, from the treacherous intrigues of Port Calin to the proud warriors of the frigid plains and forests of Medo, held in check only by the iron hand of the Realm.</li><li><strong>Intrigue and Mystery</strong> – Discover a revitalized Realm, still standing at the brink of civil war, but more dangerous than ever before; and the Lunar dominions which harry its borders, seeking redress for ancient crimes while pursuing modern ambitions.</li><li><strong>Expanded Character Creation</strong> – Create and play Solar Exalted characters and compelling mortal heroes with more information and fleshed out details.</li><li><strong>Combat System</strong> – Fight with a new cinematic combat engine, primed to deliver dynamic, exciting, and easily resolved battles between heroes, gods, and armies.</li><li><strong>Charms</strong> – Explore a vibrant new Charm set encompassing both classic Solar powers from previous editions and all-new powers to shift the course of Creation.</li><li><em><strong>...and much, much more!</strong></em></li></ul>",
+  "coreVersion": "10.291",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  },
+  "systemVersion": "1.12.2",
+  "packs": [
+    {
+      "label": "Exalted",
+      "type": "Adventure",
+      "name": "exalted",
+      "path": "packs/exalted.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "The Tomb of Dreams",
+      "type": "Adventure",
+      "name": "the-tomb-of-dreams",
+      "path": "packs/the-tomb-of-dreams.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Map Bundles",
+      "type": "Adventure",
+      "name": "map-bundles",
+      "path": "packs/map-bundles.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Actors",
+      "type": "Actor",
+      "name": "salvage-yard_actors",
+      "path": "packs/salvage-yard_actors.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Cards",
+      "type": "Cards",
+      "name": "salvage-yard_cards",
+      "path": "packs/salvage-yard_cards.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Items",
+      "type": "Item",
+      "name": "salvage-yard_items",
+      "path": "packs/salvage-yard_items.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard JournalEntries",
+      "type": "JournalEntry",
+      "name": "salvage-yard_journalentries",
+      "path": "packs/salvage-yard_journalentries.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Macros",
+      "type": "Macro",
+      "name": "salvage-yard_macros",
+      "path": "packs/salvage-yard_macros.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Playlists",
+      "type": "Playlist",
+      "name": "salvage-yard_playlists",
+      "path": "packs/salvage-yard_playlists.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard RollTables",
+      "type": "RollTable",
+      "name": "salvage-yard_rolltables",
+      "path": "packs/salvage-yard_rolltables.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "label": "Salvage Yard Scenes",
+      "type": "Scene",
+      "name": "salvage-yard_scenes",
+      "path": "packs/salvage-yard_scenes.db",
+      "system": "exaltedthird",
+      "private": false,
+      "flags": {}
+    },
+    {
+      "type": "Macro",
+      "label": "World Scripter Macros",
+      "name": "macros",
+      "path": "packs/macros.db",
+      "private": false,
+      "system": "exaltedthird",
+      "flags": {},
+      "package": "world"
+    }
+  ]
+}
