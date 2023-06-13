@@ -10,6 +10,9 @@
     "verified": "10"
   },
   "systemVersion": "1.12.2",
+  "url": "https://github.com/Ephirion/exalted3e-build",
+  "manifest": "https://github.com/Ephirion/exalted3e-build/blob/main/exalted3e-build/world.json",
+  "download": "https://github.com/Ephirion/exalted3e-build/archive/refs/tags/v1.zip",
   "packs": [
     {
       "label": "Exalted",
